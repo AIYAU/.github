@@ -1,2 +1,2 @@
 # .github
-延安大学数计学院1106
+Office 1106, School of Mathematics and Computer Science, Yan 'an University
